@@ -1,6 +1,6 @@
 ## WeLevelTask
 
-On player, We give the tag for Abilitysystemcomponent after 10sec delay.
+On player, We give the tag for AbilitySystem -component after 10sec delay.
 ListenerActor has collision box -> if you hit collision box, it starts listening the changes on death -tag and sets the player as target.
 We only change the tag on after 10sec delay, so you must collide with collisionbox, before the delay ends to receive the delegate
 
